@@ -71,7 +71,7 @@ In accordance with the Official Rules, a Duel is conducted in the following mann
 - Whoever wins the coin toss can decide to go first or second. For subsequent Duels in the Match, the loser of the previous Duel decides who starts first. If the previous Duel ended in a tie, re-toss a coin to determine who starts first in the next Duel.
 - Finally, each player draws 3 cards from the top of their respective Decks. Once both players have 3 cards in their hand, both can decide if they want to keep their respective hands or put them back in the Deck, shuffle and draw again. A player can choose to do so two times, after that he must keep his hand. Then the Duel begins, following the rules in Phases of Gameplay.
 
-Before you lean how a IOTABOTS TRADING CARD GAME turn proceeds, it is important to fully understand the Game Mat and game cards. Understanding how each type of cards works will help you plan strategies to ensure that you will emerge from the Match victorious!
+Before you learn how a IOTABOTS TRADING CARD GAME turn proceeds, it is important to fully understand the Game Mat and game cards. Understanding how each type of cards works will help you plan strategies to ensure that you will emerge from the Match victorious!
 
 
 ### 3. The Game Mat
